@@ -1,0 +1,95 @@
+Program List:
+
+	1. Loops: Below is the list of the programs that enables you to enhance your knowledge about loops(for/while) and conditional statements(if-else/switch).
+
+	  	a. Write a program that prints a fibonaci series that is a sequence of numbers like0 1 1 2 3 5 8.You can vary the number of elements to be printed meaning you can print 10 numbers or 15 or 20 or any desired number.
+	  	b. Write a program print "ping" if a number is divisible by 3,"pong" if a number is divisible by 5, and "ping pong" if number is divisible by both, else print the number.
+		  c. Write a program that swaps 2 given numbers. You need to have 2 separate functions in the program.
+     		   --> One Function should swap the numbers without any third new variable.
+      		 --> Second function should swap the numbers using a third variable.
+    	d. Write a program  to calculate factorial of a given number. You need to compute the factorial with one logic that uses recursion and another logic without recursion.
+    	e. Write a program  to check if a given number is prime or not.
+    	f. Write a program  to check an armstrong number i.e. whether the if we power up the each individual number to the total number of digits in the number and add them it should be equal to the number itself. For example 153 has 3 digits in it and if we do 1^3+5^3+3^3=153.
+    		FYI: ^ means is to the power.
+    	g. Write a program  that accepts input from the command line and then prints them.
+    	h. Write a program  that prints a pattern like below.
+    		*
+    		**
+    		***
+    		****
+    		*****
+    		******
+
+	2. Arrays: Below is a list of programs on java arrays. Candidates are instructed not to use any inbuilt functions.
+
+  	   a. Write a program to find the largest number in a given array.
+  	   b. Write a program to find the missing number in a series of sorted numbers stored in an array.
+  	   c. Write a program to find the common number in any given two arrays.
+  	   d. Write a program to perform a linear search on any given array.Linear search is the basic search where you look for the element to be searched in a sequential way.
+  	   e. Write a program to sort an array.
+  	   f. Write a program to locate and swap only 2 elements which are not sorted in a given sorted array. For example given an array {1,2,5,6,4} locate 5 and 4 and then swap them as they are not as per sorted order.
+  	   g. Write a program to merge 2 arrays.
+
+	3. Strings: Below is a list of programs on String computations.
+			
+  		a. Write a program to reverse a string.Donot use StringBuffer/StringBuilder inbuilt reverse function.
+  		b. Write a program to find a substring in a given string and then replace it with another string.
+  		c. Write a program which accepts a string like "This is nice" and converts it to a string like "This1 is2 nice3".
+  		d. Write a program to reverse each individual word in a sentence.
+  		e. Write a program to check for a palindrome string.
+  		f. Write a program to check if a given string of parenthesis has balanced parenthesis or not.For example a string as "(())" is a valid string where as strings like ")(" or "(()))" are not valid strings.
+  		g. Write a program to implement hashCode() and equals() methods.
+		
+	4. File: Below list of programs enables the candidates to learn about file handling operations via programming. 
+
+  		a. Write a program that takes input from user dynamically using below classes.
+  			--> Scanner: Use this class to input 2 integer numbers and sum them.
+  			--> BufferedReader and InputStreamReader: Use this classes to input 2 integer numbers and subtract them.
+  			--> DatainputStream: Use this class to input 2 integer numbers and multiply them.
+  			--> Console: Use this class to input 2 integer numbers and divide them.
+  		b. Write a program to count the number of words in a file.
+  		c. Write a program to search for a string in a file and then return the count of number of occurrences of the string.
+  		d. Write a program to search for a string in a file and then replace it with another string.
+  		e. Write a program to show list of all file names in a folder.
+  		f. Write a program to copy content of file into another file.
+
+	5. Collections: Below list of programs revolves around computations around collection framework.
+
+  		a. Write a program having different methods to perform below operations.
+  			--> To create an arraylist and add elements to it.
+  			--> To search for an element in the list.
+  			--> To print the elements of the list using iterator.
+  			--> To print the elements in the reverse order using ListIterator.
+  		b. Write a program to find duplicates in an array using set.
+  		c. Write a program which takes an input series as a1,a2,a3....an,b1,b2,b3...bn and produces output as a1,b1,a2,b2,a3,b3.......,an,bn.
+  		d. Write a program having below methods.
+  			--> To create a hashmap.
+  			--> To search for a key in the created map and then returns its value.
+  		e. Write a program to sort a map by value.
+  		f. Write a program that defines an enum having months of the year and then prints the value of all the enum elements.
+  		g. Write a program to copy arraylist to an array.
+
+	6. OOPS Concepts: Below list of programs shapes your skill around OOPS basic concepts.
+	
+  		a. Write a program creating an abstract class Shape with properties (noOfSides,area,perimeter) and methods(calculateArea,calculatePerimeter,setSides.
+  		b. Write a program creating an inteface ShapeConstants with variable(pi=3.14).
+  		c. Write a program that creates a class Circle extending Shape abstract class and implementing ShapeConstants interface and has following behavior.
+  			--> Properties: radius.
+  			--> Constructor: To set number of sides.
+  			--> Overrides all the methods from parents.
+  		d. Write a program to depict the behavior of method overloading and overriding.
+		
+	7. Exception Handling: Following programs illustrates how to work around exceptions.
+
+  		a. Write a program that is expected to throw a null pointer exception and in turn handles it using try catch and finally.
+  		b. Write a program containing a function which is expected to throw any kind of exception say NullPointerException or ArithmeticException etc and then handle this function in the parent function which calls this function.
+		
+	8. General: Following list of programs helps you gain knowledge on all the remaining important areas in the java programming.
+	
+  		a. Write an Immutable class.
+  		b. Write a program to print 1 to 10 numbers without using loops and you should not have more than 1 print statement.
+  		c. Write a program implementing explicit garbage collection.
+  		d. Write a program that implements various functions of different type of access modifiers(private,protected,default,public) and then access these methods with in or outside the class based on the identifier scope.
+  		e. Write a program that contains a constructor, a static block and a static method. Execute the program in order to verify the order to execution of methods and block.
+  		f. Write a program to make use of JDBC and insert/update/select values in the database.
+
