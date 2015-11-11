@@ -1,4 +1,4 @@
-package practice2;
+package com.innovapath.programs.loops;
 
 public class PingPong {
 
