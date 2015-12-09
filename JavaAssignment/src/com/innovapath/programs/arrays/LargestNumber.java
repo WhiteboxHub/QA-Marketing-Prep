@@ -1,4 +1,4 @@
-package com.innovapath.programs.Arrays;
+package com.innovapath.programs.arrays;
 
 public class LargestNumber {
 
