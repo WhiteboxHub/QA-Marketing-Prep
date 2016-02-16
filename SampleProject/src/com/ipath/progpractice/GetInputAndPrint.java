@@ -12,7 +12,6 @@ public class GetInputAndPrint {
 		      String s;
 		 
 		      Scanner in = new Scanner(System.in);
-		 
 		      System.out.println("Enter a string");
 		      s = in.nextLine();
 		      System.out.println("You entered string "+s);
