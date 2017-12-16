@@ -1,0 +1,68 @@
+QA Study Plan
+
+PHASE 1
+	SQL
+	Unix
+	Testing Fundamentals
+	SDLC
+	Http, Webservices
+	Soap, REST
+	SOAPUI/ REST Clients
+	Performance Fundamentals
+	JMETER
+
+PHASE 2**
+	Java-OOPS
+	Operators and Loops
+	Strings and Arrays
+	IO(Files) and ExceptionHandling
+	WrapperClasses and Collections(Util)
+	MultiThreading
+	Junit
+	TestNG
+
+PHASE 3**
+	XPATH,CSSSelectors
+	Webdriver
+	Automation Framework
+	Maven, Git, Jenkins
+	RestAPI Automation- HttpClient and RestAssured
+	Appium
+	SelniumGrid and ParallelTesting
+	SauceLabs
+
+
+
+
+Additional Topics:
+Cucumber
+Javascript
+Protractor
+Nightwatch.js
+Node.js
+Chakram
+Mocha,Chai and Jasmine
+AWS, Google Cloud, Groovy
+JavaDesignPatterns and search/sort algorithms.
+
+
+Assignments:
+Java 50 programs: https://github.com/WhiteboxHub/Programming-Practice/blob/master/Program-List.
+
+Create automation framework by taking any website, use PageObject, Datadriven framework with UIMapping.
+In this framework implement all WebDriver APIs like findelement/findelements,
+Windowhandles, webbased/window based popups/alerts, select dropdown,
+Waits, actions, loggers, exception handling, screenshots, desired capabilities by choosing few pages in application where you can find these.
+
+Also Use webelement and driver methods like – close, quit, getText, getAttribute, getCssValue, isEnabled, isDisplayed, isSelected
+ 
+Automate walmart.com- search flow:
+Go to walmart.com, search for products, assert search results, and assert search details, 
+Add to cart and assert add to cart.
+
+Run automation framework using mvn clean install from cmd prompt using maven surefire in pom.xml
+
+Create RestAPI Automation framework in Java.
+
+Practice Appium setup and coding – desired capabilities, locators.
+
