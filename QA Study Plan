@@ -47,7 +47,6 @@ JavaDesignPatterns and search/sort algorithms.
 
 
 Assignments:
-Java 50 programs: https://github.com/WhiteboxHub/Programming-Practice/blob/master/Program-List.
 
 Create automation framework by taking any website, use PageObject, Datadriven framework with UIMapping.
 In this framework implement all WebDriver APIs like findelement/findelements,
