@@ -3,7 +3,7 @@ Program List:
 	1. Loops: Below is the list of the programs that enables you to enhance your knowledge about loops(for/while) and conditional statements(if-else/switch).
 
 	  	a. Write a program that prints a fibonaci series that is a sequence of numbers like0 1 1 2 3 5 8.You can vary the number of elements to be printed meaning you can print 10 numbers or 15 or 20 or any desired number.
-	  	b. Write a program print "ping" if a number is divisible by 3,"pong" if a number is divisible by 5, and "ping pong" if number is divisible by both, else print the number.
+	  	b. Write a program print "fizz" if a number is divisible by 3,"buzz" if a number is divisible by 5, and "fizz buzz" if number is divisible by both, else print the number.
 		  c. Write a program that swaps 2 given numbers. You need to have 2 separate functions in the program.
      		   --> One Function should swap the numbers without any third new variable.
       		 --> Second function should swap the numbers using a third variable.
@@ -91,5 +91,4 @@ Program List:
   		c. Write a program implementing explicit garbage collection.
   		d. Write a program that implements various functions of different type of access modifiers(private,protected,default,public) and then access these methods with in or outside the class based on the identifier scope.
   		e. Write a program that contains a constructor, a static block and a static method. Execute the program in order to verify the order to execution of methods and block.
-  		f. Write a program to make use of JDBC and insert/update/select values in the database.
-
+  		
