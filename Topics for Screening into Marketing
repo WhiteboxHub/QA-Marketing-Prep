@@ -1,0 +1,54 @@
+Round 1
+
+SQL (Theory along with Queries)
+
+Unix (basic commands, basics of shell scripting)
+
+Testing Fundamentals ( Definitions of different type of testings, life cycles)
+
+Agile (Definitions : Daily Stand Ups (10 to 15 mins), Sprint Planning, Sprints, User stories, Velocity, burndown chart, story points, Scrum(5,6,7), Scrum Master, Product Owner, Retrospective meetings, Sprint review, JIRA, JENKINS, releases, Product Backlog, Sprint Backlog, Acceptance Criteria)
+
+Http (Status codes, request, response, CRUD, Header, body)
+
+Webservices
+Soap WebService (WSDL, endpoint, Envelope, header, body, request, response, xml )
+REST API ( URL, URI, resource, request, response, JSON, methods, payload)
+
+Soap vs Rest
+JAVA (Class, Method, Object, OOPS(Types of inheritance, overloading vs overriding, encapsulation, data hiding), 
+stack vs heap, break vs continue, Control statements, overload vs override, abstract vs interface ,instance, local, 
+static, constructor, access modifiers, final, super, this, final vs finalize and finally, garbage collector,
+Strings(immutable, Stringbuilder vs Stringbuffer), Wrapper classes(Autoboxing and Unboxing), 
+Exceptions (throw vs throws, throw vs try catch), Comparator vs Comparable, 
+MultiThreading(Synchronisation, dead lock, race condition), 
+Collections(List, ArrayList, HashMap vs Hashtable, TreeMap, LinkedList, Iterator))
+
+Programs : All Sorting Algorithms
+
+
+Round 2
+
+Testing Frameworks (JUnit vs TestNG)
+JUnit (Junit3 vs JUnit4, Annotations,Parameterized testing, Assertions)
+TestNG (Annotations, Assertions, testng.xml(order of tags), reports, group testing, Data driven from testng.xml, parallel testing, soft dependency and hard dependency, dependsOnMethods, dependsOnGroups)
+
+WebDriver (locators, absolute vs relative xpath, waits comparison, findelement/findelements, interfaces available on selenium test suite, IDE vs RC vs WebDriver, Select, JS Executor, Autoit/ Robot, Alerts, Actions(drop down), Window handles, handle dynamic webelement, Screenshot Class,  Challenges you have faced, exceptions you got,  xpath vs css selectors)
+
+Git(local repo vs central repo, merge conflict, Basic commands(until pushing))
+
+Maven (pom.xml, commands)
+
+CI/CD process (Jenkins, Gerrit, Google Cloud/AWS/Azure)
+
+Automation Framework (About framwork, POM, Data driven, UI Mapping, keyword driven, Page Factory, Maven, Testing Frameworks, other open source libraries for logging, reports etc.)
+
+Rest API Automation(Sending GET/POST request and getting response (Classes you have used) and validating response, usage of org.json)
+HttpClient (Classes and methods)
+RestAssured (given, when and then)
+
+SOAPUI (Asertions, Groovy, Property transfer, folder structure)
+
+JMeter (Thread, ThreadGroup, samplers, Controllers, Timers, HTTP Proxy Server)
+
+Selenium Grid and Parallel Testing and SauceLabs
+
