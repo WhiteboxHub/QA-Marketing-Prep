@@ -1,3 +1,5 @@
+// find smllest number in the given array.
+
 package com.main;
 
 /**
